@@ -1,8 +1,4 @@
-# Calculadora-de-Emprestimos
- Calculadora de Empréstimos criada para um escritório afim de aprimorar meus conhecimentos relacionados a JavaScript. 
- Open-source, livre para quaiquer pessoas e/ou empresas utilizarem.
- 
- # Calculadora de Empréstimos - 2021
+# Calculadora de Empréstimos - 2021
  Sistema desenvolvido para um conglomerado de empresas financeiras chamado Grupo HES. O projeto foi desenvolvido afim de aprimorar minhas habilidades com JavaScript e por não envolver nenhum preço está liberado para livre uso de qualquer pessoa e/ou empresa que desejar.
  Dúvidas entre em contato comigo através das minhas mídias sociais abaixo citadas.
  
